@@ -1,0 +1,10 @@
+version: "2.22.0"
+services:
+  db:   
+    image: "postgres:12.16"
+    environment:
+      POSTGRES_DB: "SchoolDB"
+      POSTGRES_USER: "school"
+      POSTGRES_PASSWORD: "s123"
+    ports:
+      - "5431:5432"
