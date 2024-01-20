@@ -1,0 +1,17 @@
+
+g	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒ‚¯¼Ò1
+u	java:S1351"YReduce the total number of break and continue statements in this loop to use at most one.(Ö«úÇ8…‚¯¼Ò1
+‰
+java:S1319"gThe type of "clients" should be an interface such as "List" rather than the implementation "ArrayList".(ÈËö°üÿÿÿÿ8†‚¯¼Ò1
+u
+java:S1104"SMake clients a static final constant or non-public and provide accessors if needed.(ÈËö°üÿÿÿÿ8‡‚¯¼Ò1
+O
+java:S1444"-Make this "public static clients" field final(ÈËö°üÿÿÿÿ8‡‚¯¼Ò1
+?
+java:S2386"Make this member "protected".(ÈËö°üÿÿÿÿ8í‚¯¼Ò1
+G	java:S106"+Replace this use of System.out by a logger.(œ—Ì¦8ô‚¯¼Ò1
+L	java:S106)"+Replace this use of System.out by a logger.(äºôüÿÿÿÿ8ö‚¯¼Ò1
+T
+java:S1128"7Remove this unused import 'javax.imageio.IIOException'.(´ÂÏ’8€ƒ¯¼Ò1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8€ƒ¯¼Ò1
